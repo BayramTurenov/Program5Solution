@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\bin\Debug\LoopingOf.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\bin\Debug\LoopingOf.exe
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\bin\Debug\LoopingOf.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\obj\Debug\LoopingOf.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\obj\Debug\LoopingOf.exe
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\LoopingOf\LoopingOf\obj\Debug\LoopingOf.pdb
