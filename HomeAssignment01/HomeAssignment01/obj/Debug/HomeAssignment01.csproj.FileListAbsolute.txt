@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\bin\Debug\HomeAssignment01.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\bin\Debug\HomeAssignment01.exe
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\bin\Debug\HomeAssignment01.pdb
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\obj\Debug\HomeAssignment01.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\obj\Debug\HomeAssignment01.exe
+C:\Users\Technologist SP\Documents\GitHub\Program5Solution\HomeAssignment01\HomeAssignment01\obj\Debug\HomeAssignment01.pdb
